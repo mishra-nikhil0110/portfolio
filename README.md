@@ -1,2 +1,3 @@
-# portfolio👨‍💻
-Hey! This is my personal portfolio website.
+# Portfolio 👨‍💻💡
+
+## Hi, This is my personal portfolio website
